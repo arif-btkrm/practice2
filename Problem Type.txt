@@ -1,0 +1,6 @@
+most of the problem i like to solve is: 
+1. Adhoc
+2. Conditional
+3. Array
+4. Stack
+5. Queue
