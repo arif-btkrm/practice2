@@ -1,1 +1,1 @@
-# practice2
+this repository is about my competetive programming short description.
